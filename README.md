@@ -17,9 +17,9 @@ www.microsoft.com:
 4.291/10.606/13.271/3.316 ms
 
 
-Was there any packet loss on any of the pings?
+### Was there any packet loss on any of the pings?
 There were no packets lost on any of the pings.
 
 
-Did the IP address change for a given website between pings?
+### Did the IP address change for a given website between pings?
 There were no IP address changes between pings.
